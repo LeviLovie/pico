@@ -1,0 +1,3 @@
+/home/levi/pico/random_flashing/build/pioasm/CMakeFiles/pioasm.dir
+/home/levi/pico/random_flashing/build/pioasm/CMakeFiles/edit_cache.dir
+/home/levi/pico/random_flashing/build/pioasm/CMakeFiles/rebuild_cache.dir

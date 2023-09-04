@@ -1,0 +1,3 @@
+/home/levi/pico/screen/snake/build/pioasm/CMakeFiles/pioasm.dir
+/home/levi/pico/screen/snake/build/pioasm/CMakeFiles/edit_cache.dir
+/home/levi/pico/screen/snake/build/pioasm/CMakeFiles/rebuild_cache.dir
