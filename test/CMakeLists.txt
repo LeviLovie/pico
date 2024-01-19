@@ -14,7 +14,6 @@ add_executable(test
 
 target_link_libraries(test 
   pico_stdlib
-  pico_cyw43_arch_none
 )
 
 pico_enable_stdio_usb(test 1)
